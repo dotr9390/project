@@ -1,0 +1,59 @@
+File Manifest for ICPSR 34808
+
+Prysby, Charles, Carmine Scavo, American Political Science Association, and
+Inter-university Consortium for Political and Social Research. SETUPS:
+Voting Behavior: The 2012 Election. ICPSR34808-v2. Ann Arbor, MI: Inter-
+university Consortium for Political and Social Research [distributor],
+2014-12-18. http://doi.org/10.3886/ICPSR34808.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34808-descriptioncitation.pdf       -       -         -       2014-12-18  -
+
+    34808-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 SETUPS: Voting Behavior: The 2012 Election
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    34808-0001-Codebook.pdf             -       -         -       2014-12-18  489e061f14b20c6a63326404bb9213e6
+
+    34808-0001-Data.dta                 -       5,914     195     2014-12-18  e31d04501c5a0ba2754f222d6b461cd3
+
+    34808-0001-Data.rda                 -       5,914     195     2014-12-18  a509502b849cfc49263d079a7c149363
+
+    34808-0001-Data.sav                 -       5,914     195     2014-12-18  c1d041e6ef9bcfbce8ded655ea4c5477
+
+    34808-0001-Data.stc                 -       5,914     195     2014-12-18  5fc2e83080ff7788063741662f5b7ce9
+
+    34808-0001-Data.tsv                 -       5,914     195     2014-12-18  ee763b75e414ae1884737b901769116f
+
+    34808-0001-Data.txt                 205     5,914     195     2014-12-18  8f7b6b185bdf2b140145b919d336dbb8
+
+    34808-0001-Setup.dct                -       -         -       2014-12-18  e6541322a39a7a49fff8c7ff28eab69e
+
+    34808-0001-Setup.do                 -       -         -       2014-12-18  201421eea617eaa12481c5699f182696
+
+    34808-0001-Setup.sas                -       -         -       2014-12-18  78a2d9e103ffe582e6a3ff6ec91678b1
+
+    34808-0001-Setup.sps                -       -         -       2014-12-18  0ff87605e6072883a9406652692aa3ad
+
+    34808-0001-Supplemental_syntax.do   -       -         -       2014-12-18  e1bd1140668ab5c0cb19e2d945cca5f9
+
+    34808-0001-Supplemental_syntax.sas  -       -         -       2014-12-18  ace933f7fa9389082d9ef876fc47b818
+
+
+Version History
+
+2014-12-18 The collection was updated by the producer to include data for
+variables A05, A06, and R10 which were previously unavailable, as well as
+removing two cases, resolving data errors, and updating the descriptions
+and codebook.  2013-08-08 The metadata description has been edited
